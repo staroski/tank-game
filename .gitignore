@@ -1,6 +1,9 @@
-# Maven target folder
+# Eclipse
 target
 bin
+.classpath
+.project
+.settings
 
 # Compiled class file
 *.class
