@@ -23,6 +23,29 @@ O jogo utiliza a **porta 8008**, se você tiver problemas para acessar esta port
     
     br.com.staroski.games.ObjectBinder
 
+### Teclas
+
+Virar para a esquerda ou direita:
+
+    A, D, Seta pra Esquerda, Seta pra Direita
+
+Acelerar:
+
+    W, Seta pra Cima
+
+Descelerar:
+
+    S, Seta pra Baixo
+
+Mirar:
+
+    Cursor do Mouse
+
+Atirar:
+
+    Ctrl, J, Clique do Mouse
+
+
 ### Bom divertimento!
 
 ![Screenshot](screenshot.png)
