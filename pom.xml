@@ -1,10 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>br.com.staroski.games</groupId>
-  <artifactId>war-game</artifactId>
+  <artifactId>tank-game</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>war-game</name>
-  <description>A desktop war game developed by Ricardo Staroski</description>
+  <name>tank-game</name>
+  <description>A desktop Tank game developed by Ricardo Staroski</description>
   <build>
     <sourceDirectory>src/main/java</sourceDirectory>
     <plugins>
